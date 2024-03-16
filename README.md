@@ -1,4 +1,4 @@
-# Active Directory
+# SOC Automation Project
 
 ## Objective
 [Brief Objective - Remove this afterwards]
